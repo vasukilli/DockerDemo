@@ -1,0 +1,5 @@
+com\example\demo\service\UserService.class
+com\example\demo\controller\UserController.class
+com\example\demo\modal\User.class
+com\example\demo\Ramanujan12Application.class
+com\example\demo\repository\UserRepository.class
